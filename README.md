@@ -1,2 +1,2 @@
 # LsectionLab
-this is demo tutorial of git,github on programming knowledge
+this is class for understanding the Github Modifications
